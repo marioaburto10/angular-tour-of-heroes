@@ -1,6 +1,9 @@
 # AngularTourOfHeroes
 
+### **My deployed Angular 6 project can be found [here](https://marioaburto10.github.io/angular-tour-of-heroes/detail/15) on github pages.**
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.1.
+
 
 ## Development server
 
