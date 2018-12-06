@@ -15,8 +15,9 @@ export class HeroesComponent implements OnInit {
 
   hero: Hero = {
     id: 1,
-    name: 'Spiderman'
+    name: 'Spiderman',
+    strongPoints: 450
   };
 
-}
+} 
  
